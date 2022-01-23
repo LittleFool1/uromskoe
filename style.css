@@ -1,0 +1,200 @@
+@font-face {
+    font-family: Roboto-light;
+    src: url("../assets/Fonts/Roboto-Light.ttf");
+}
+
+html {
+    display: block;
+    background-color: white;
+}
+
+body {
+    margin: auto;
+    padding: 0;
+    max-width: 800px;
+    min-height: 1150px;
+    background-color: white;
+    font-family: Roboto-light;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid white;
+}
+
+
+td,
+th {
+    padding: 3px;
+    border: 1px solid grey;
+}
+
+.table-report {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    max-width: 850px;
+    min-height: 100px;
+    border-bottom: 3px solid gray;
+    font-family: Roboto-light;
+}
+
+header p {
+    margin-top: 30px
+}
+
+.header-rescore {
+    width: 200px;
+    height: 60px;
+    background-color: red;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.header-rescore h3 {
+    text-align: left;
+    margin: 0 auto;
+    color: white;
+}
+
+
+main h2 {
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+}
+
+
+.container-info {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    height: 500px;
+    background-color: white;
+}
+
+.info-report {
+    width: 350px;
+    height: 500px;
+}
+
+.info-report h5,
+.general-info h5,
+.container-analysis h5,
+.description h5,
+.recommendations h5,
+.container-coefficient h5,
+.container-enforcement-proceedings h5,
+.container-arbitration-cases h5,
+.container-pledges h5,
+.container-government-contracts h5 {
+    border-bottom: 1px solid gray;
+    margin: 0;
+}
+
+.general-info {
+    width: 410px;
+    height: 500px;
+    font-size: 14px;
+}
+
+.general-info div {
+    background-color: lightgrey;
+    margin-top: 0;
+}
+
+.container-analysis {
+    width: 800px;
+    height: 400px;
+}
+
+.table-color-grey {
+    color: gray;
+}
+
+.contaier-description {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    height: 300px;
+}
+
+
+.description {
+    width: 350px;
+    height: 500px;
+}
+
+.recommendations {
+    width: 410px;
+    height: 500px;
+}
+
+.container-factors {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    height: 500px;
+}
+
+.solvency li {
+    list-style: none;
+    /* Убираем исходные маркеры */
+    padding-left: 24px;
+
+}
+
+.solvency {
+    width: 350px;
+    height: 500px;
+}
+
+.bankruptcy {
+    width: 410px;
+    height: 500px;
+}
+
+.container-coefficient {
+    width: 800px;
+    height: 240px;
+}
+
+.container-enforcement-proceedings {
+    width: 800px;
+    height: 240px;
+}
+
+.container-arbitration-cases {
+
+    max-width: 800px;
+    height: 300px;
+}
+
+.arbitration-cases {
+    width: 380px;
+    height: 500px;
+}
+.plaintiff {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    height: 500px;
+}
+
+.defendant {
+    width: 410px;
+    height: 500px;
+}
+
+.container-pledges {
+    width: 800px;
+    height: 280px;
+}
+
+.container-government-contracts {
+    width: 800px;
+    height: 750px;
+}
