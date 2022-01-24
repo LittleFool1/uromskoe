@@ -11,7 +11,7 @@ html {
 body {
     margin: auto;
     padding: 0;
-    max-width: 800px;
+    max-width: 793px;
     min-height: 1150px;
     background-color: white;
     font-family: Roboto-light;
@@ -71,7 +71,7 @@ main h2 {
 .container-info {
     display: flex;
     justify-content: space-between;
-    max-width: 800px;
+    max-width: 793px;
     height: 500px;
     background-color: white;
 }
@@ -107,7 +107,7 @@ main h2 {
 }
 
 .container-analysis {
-    width: 800px;
+    width: 793px;
     height: 400px;
 }
 
@@ -118,7 +118,7 @@ main h2 {
 .contaier-description {
     display: flex;
     justify-content: space-between;
-    max-width: 800px;
+    max-width: 793px;
     height: 300px;
 }
 
@@ -136,7 +136,7 @@ main h2 {
 .container-factors {
     display: flex;
     justify-content: space-between;
-    width: 800px;
+    width: 793px;
     height: 500px;
 }
 
@@ -158,18 +158,18 @@ main h2 {
 }
 
 .container-coefficient {
-    width: 800px;
+    width: 793px;
     height: 240px;
 }
 
 .container-enforcement-proceedings {
-    width: 800px;
+    width: 793px;
     height: 240px;
 }
 
 .container-arbitration-cases {
 
-    max-width: 800px;
+    max-width: 793px;
     height: 300px;
 }
 
@@ -180,7 +180,7 @@ main h2 {
 .plaintiff {
     display: flex;
     justify-content: space-between;
-    width: 800px;
+    width: 793px;
     height: 500px;
 }
 
@@ -190,11 +190,11 @@ main h2 {
 }
 
 .container-pledges {
-    width: 800px;
+    width: 793px;
     height: 280px;
 }
 
 .container-government-contracts {
-    width: 800px;
+    width: 793px;
     height: 750px;
 }
