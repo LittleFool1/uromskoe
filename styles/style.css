@@ -9,12 +9,12 @@
 }
 
 @font-face {
-    font-family: Roboto-Bold;
+    font-family: Roboto-Medium;
     src: url("../assets/Fonts/Roboto-Medium.ttf");
 }
 
 @font-face {
-    font-family: Roboto-Bold;
+    font-family: Roboto-Regular;
     src: url("../assets/Fonts/Roboto-Regular.ttf");
 }
 
@@ -58,10 +58,6 @@ a {
     border-right: none;
 }
 
-b {
-    font-family: Roboto-Bold;
-}
-
 table {
     border-collapse: collapse;
     border-left: 2px solid white;
@@ -91,6 +87,10 @@ th {
 
 .table-text-right {
     text-align: right;
+}
+
+.info span {
+    font-family: Roboto-Bold;
 }
 
 header {
