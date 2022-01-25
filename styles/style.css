@@ -35,7 +35,7 @@ table {
 
 td,
 th {
-    padding: 0px;
+    padding: 10px;
     border: 1px solid grey;
 }
 
@@ -93,7 +93,7 @@ main h2 {
 }
 
 .info-report {
-    width: 300px;
+    width: 360px;
     height: 500px;
 }
 
