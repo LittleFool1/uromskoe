@@ -26,13 +26,21 @@ body {
 .solvency-table tr td{
     border: none;
 }
+
+.non-vertical-border  td{
+    border-left: none;
+    border-right: none;
+}
+
 b {
     font-family: Roboto-Bold;
 }
 
 table {
     border-collapse: collapse;
-    border: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    margin-bottom: 10px;
 }
 
 .circle {
@@ -114,9 +122,12 @@ main h2 {
     align-items: center;
     flex-basis: 50%;
     height: 40px;
-    border-bottom: 2px solid gray;
     background-color: white;
     margin-bottom: 1px;
+}
+
+.underline {
+        border-bottom: 2px solid gray;
 }
 
 .container-name h5 {
