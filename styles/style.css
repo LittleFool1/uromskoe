@@ -23,6 +23,16 @@ html {
     background-color: white;
 }
 
+.font-size7-5 {
+    font-size: 7.5pt;
+}
+
+
+.big-char {
+    font-size: 60pt;
+    color: gray;
+}
+
 body {
     margin: auto;
     padding: 0;
@@ -31,6 +41,7 @@ body {
     min-height: 1150px;
     background-color: white;
     font-family: Roboto-light;
+    font-size: 9pt;
 }
 
 .solvency-table tr td{
@@ -63,6 +74,7 @@ table {
     border-left: 2px solid white;
     border-right: 2px solid white;
     margin-bottom: 10px;
+    font-size: 11pt;
 }
 
 .circle {
@@ -100,10 +112,12 @@ header {
     max-width: 850px;
     min-height: 100px;
     border-bottom: 3px solid gray;
+
 }
 
-header p {
-    margin-top: 30px
+header span {
+    margin-top: 30px;
+    font-size: 12pt;
 }
 
 .header-rescore {
@@ -141,7 +155,7 @@ main h2 {
 
 .info {
     margin: 0;
-    padding: 10px;
+    padding: 13px;
 }
 
 .container-name {
@@ -160,10 +174,11 @@ main h2 {
 .container-name h5 {
     padding-top: 5px;
     margin: 0;
-    font-size: 16px;
+    font-size: 12pt;
     letter-spacing: 1px;
     line-height: 20px;
     font-family: Roboto-Medium;
+
 }
 
 .general-info {
