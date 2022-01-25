@@ -64,7 +64,7 @@ header p {
 
 main h2 {
     margin: 0 auto;
-    padding: 50px 0 50px 0;
+    padding: 50px 0 50px 15px;
 }
 
 
@@ -93,6 +93,7 @@ main h2 {
 .container-government-contracts h5 {
     border-bottom: 1px solid gray;
     margin: 0;
+    padding-left: 15px;
 }
 
 .general-info {
