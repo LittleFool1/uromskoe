@@ -8,6 +8,16 @@
     src: url("../assets/Fonts/Roboto-Bold.ttf");
 }
 
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../assets/Fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../assets/Fonts/Roboto-Regular.ttf");
+}
+
 html {
     display: block;
     background-color: white;
@@ -25,6 +35,22 @@ body {
 
 .solvency-table tr td{
     border: none;
+}
+
+.roboto-m {
+    font-family: Roboto-Medium;
+}
+
+.roboto-r {
+    font-family: Roboto-Regular;
+}
+
+.roboto-b {
+    font-family: Roboto-Bold;
+}
+
+a {
+    font-family: Roboto-Regular;
 }
 
 .non-vertical-border  td{
@@ -136,6 +162,7 @@ main h2 {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 20px;
+    font-family: Roboto-Medium;
 }
 
 .general-info {
