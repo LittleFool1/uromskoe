@@ -182,12 +182,12 @@ main h2 {
 }
 
 .container-name h5 {
-    padding-top: 5px;
+    padding-top: 2px;
     margin: 0;
     font-size: 12pt;
     letter-spacing: 1px;
     line-height: 20px;
-    font-family: Roboto-Bold;
+    font-family: Roboto-light;
     margin-left: 10px;
 }
 
