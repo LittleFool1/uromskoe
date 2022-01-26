@@ -173,7 +173,7 @@ main h2 {
 }
 
 .underline {
-        border-bottom: 2px solid gray;
+    border-bottom: 2px solid gray;
 }
 
 .container-analysis .container-name {
@@ -261,7 +261,6 @@ main h2 {
 .container-enforcement-proceedings {
     width: 793px;
     height: 220px;
-    padding-top:40px;
 }
 
 .container-arbitration-cases {
@@ -288,7 +287,7 @@ main h2 {
 
 .container-pledges {
     width: 793px;
-    height: 600px;
+    height: 520px;
     padding-top:40px;
 }
 
