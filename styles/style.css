@@ -31,7 +31,8 @@ html {
 
 .big-char {
     font-size: 60pt;
-    color: gray;
+    color: rgb(168, 168, 168);
+    font-family: Roboto-Medium;
 }
 
 body {
@@ -203,7 +204,7 @@ main h2 {
 }
 
 .table-color-grey {
-    color: black;
+    color: rgb(112, 112, 112);
 }
 
 .contaier-description {
