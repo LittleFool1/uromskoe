@@ -129,6 +129,8 @@ header span {
     background-color: red;
     margin-top: 20px;
     font-size: 40px;
+    position: relative;
+    right: -57px;
 }
 
 .header-rescore h3 {
