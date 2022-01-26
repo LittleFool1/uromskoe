@@ -185,8 +185,8 @@ main h2 {
     font-size: 12pt;
     letter-spacing: 1px;
     line-height: 20px;
-    font-family: Roboto-Medium;
-
+    font-family: Roboto-Bold;
+    margin-left: 10px;
 }
 
 .general-info {
