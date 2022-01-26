@@ -25,6 +25,7 @@ html {
 
 .font-size7-5 {
     font-size: 7.5pt;
+    color: dimgray;
 }
 
 
@@ -62,6 +63,7 @@ body {
 
 a {
     font-family: Roboto-Regular;
+    padding-left: 10px;;
 }
 
 .non-vertical-border  td{
@@ -85,7 +87,7 @@ table {
 
 td,
 th {
-    padding: 5px 2px 5px 0;
+    padding: 5px 7px 3px 7px;
     border: 1px solid grey;
 }
 
@@ -169,6 +171,11 @@ main h2 {
 
 .underline {
         border-bottom: 2px solid gray;
+}
+
+.container-analysis .container-name {
+    position: relative;
+    top: 2px;
 }
 
 .container-name h5 {
